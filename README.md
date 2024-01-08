@@ -18,9 +18,3 @@ Diagramme de séquence :
 
 ![image](https://github.com/emf-info-151/exerciceEquipes/assets/48353440/826755e6-fcb5-426e-aa73-b778efcc3883)
 
-
-
-## Récapitulatif du processus 
-
-- Avoir tous les outils de programmation fonctionnels en local
-- Savoir utiliser VSCode pour créer un fichier d'exercice et pour commit/push son exercice sur Github
